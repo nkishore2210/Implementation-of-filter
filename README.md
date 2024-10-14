@@ -30,6 +30,7 @@ Apply the Laplacian operator to the RGB image (image2) using OpenCV's cv2.Laplac
 ### Developed By   : KISHORE
 ### Register Number: 212222240049
 </br>
+
 ```Python
 import cv2
 import numpy as np
